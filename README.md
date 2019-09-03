@@ -1,8 +1,11 @@
 # Data-Structure-and-Algorithms
 
-1/ Algorithm Toolbox
-2/ DataStructure
-3/  Algorithms on Graph
-4/ Algorithms on Strings
-5/ Advanced Algorithm
-6/ Genome
+
+\begin{enumerate}
+	\item Algorithm Toolbox
+	\item DataStructure
+	\item Algorithms on Graph
+	\item Algorithms on Strings
+	\item Advanced Algorithm
+	\item Genome
+\end{enumerate}
