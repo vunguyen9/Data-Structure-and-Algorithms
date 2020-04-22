@@ -1,9 +1,37 @@
 # Data-Structure-and-Algorithms
 
 1. Algorithm Toolbox
-    - The course covers basic algorithmic techniques and ideas for computational problems arising frequently in practical applications: sorting and searching, divide and conquer, greedy algorithms, dynamic programming. We will learn a lot of theory: how to sort data and how it helps for searching; how to break a large problem into pieces and solve them recursively; when it makes sense to proceed greedily; how dynamic programming is used in genomic studies. You will practice solving computational problems, designing new algorithms, and implementing solutions efficiently (so that they run in less than a second).
+    - Algorithmic Warm-up
+    - Greedy Algorithms
+    - Divide-and-Conquer
+    - Dynamic Programming 1
+    - Dynamic Programming 2
 2. DataStructure
+    - Basic Data Structures
+    - Dynamic Arrays and Amortized Analysis
+    - Priority Queues and Disjoint Sets
+    - Hash Tables
+    - Binary Search Trees
+    - Binary Search Trees 2
 3. Algorithms on Graph
+    - Decomposition of Graphs 1
+    - Decomposition of Graphs 2
+    - Paths in Graphs 1
+    - Paths in Graphs 2
+    - Minimum Spanning Trees
+    - Advanced Shortest Paths Project
 4. Algorithms on Strings
+    - Suffix Trees
+    - Burrows-Wheeler Transform and Suffix Arrays
+    - Knuth–Morris–Pratt Algorithm
+    - Constructing Suffix Arrays and Suffix Trees
 5. Advanced Algorithm
+    - Flows in Networks
+    - Linear Programming
+    - NP-complete Problems
+    - Coping with NP-completeness
+    - Streaming Algorithms 
 6. Genome
+    - The 2011 European E. coli Outbreak
+    - Assembling Genomes Using de Bruijn Graphs
+    - Genome Assembly Faces Real Sequencing Data
